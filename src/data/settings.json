@@ -1,0 +1,11 @@
+{
+  "appName": "DashStack - Example",
+  "defaultLanguage": "en",
+  "timeZone": "UTC",
+  "currency": "USD",
+  "features": {
+    "reports": true,
+    "multiCurrency": true,
+    "exports": true
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "series": [
+    {
+      "date": "2025-12-10",
+      "sessions": 1522,
+      "activeUsers": 318,
+      "revenue": 773.99,
+      "conversions": 108
+    },
+    {
+      "date": "2025-12-11",
+      "sessions": 574,
+      "activeUsers": 471,
+      "revenue": 715.63,
+      "conversions": 25
+    },
+    {
+      "date": "2025-12-12",
+      "sessions": 620,
+      "activeUsers": 422,
+      "revenue": 1140.39,
+      "conversions": 87
+    },
+    {
+      "date": "2025-12-13",
+      "sessions": 1917,
+      "activeUsers": 603,
+      "revenue": 364.33,
+      "conversions": 63
+    },
+    {
+      "date": "2025-12-14",
+      "sessions": 1922,
+      "activeUsers": 788,
+      "revenue": 1463.87,
+      "conversions": 59
+    },
+    {
+      "date": "2025-12-15",
+      "sessions": 1040,
+      "activeUsers": 613,
+      "revenue": 1886.25,
+      "conversions": 67
+    },
+    {
+      "date": "2025-12-16",
+      "sessions": 997,
+      "activeUsers": 700,
+      "revenue": 1264.22,
+      "conversions": 114
+    },
+    {
+      "date": "2025-12-17",
+      "sessions": 1999,
+      "activeUsers": 417,
+      "revenue": 1960.59,
+      "conversions": 87
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 1678,
+      "activeUsers": 149,
+      "revenue": 213.04,
+      "conversions": 76
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 1122,
+      "activeUsers": 456,
+      "revenue": 974.2,
+      "conversions": 116
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 1213,
+      "activeUsers": 869,
+      "revenue": 1983.5,
+      "conversions": 89
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 1224,
+      "activeUsers": 615,
+      "revenue": 444.36,
+      "conversions": 7
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 1113,
+      "activeUsers": 226,
+      "revenue": 1087.93,
+      "conversions": 84
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 1532,
+      "activeUsers": 54,
+      "revenue": 1894.52,
+      "conversions": 84
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 1343,
+      "activeUsers": 896,
+      "revenue": 1527.32,
+      "conversions": 115
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 676,
+      "activeUsers": 733,
+      "revenue": 1855.88,
+      "conversions": 54
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 1300,
+      "activeUsers": 573,
+      "revenue": 208.96,
+      "conversions": 42
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 1790,
+      "activeUsers": 108,
+      "revenue": 340.2,
+      "conversions": 106
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 400,
+      "activeUsers": 422,
+      "revenue": 1231.3,
+      "conversions": 39
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 1050,
+      "activeUsers": 795,
+      "revenue": 250.14,
+      "conversions": 44
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 618,
+      "activeUsers": 219,
+      "revenue": 455.99,
+      "conversions": 28
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 1205,
+      "activeUsers": 341,
+      "revenue": 1469.4,
+      "conversions": 43
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 1677,
+      "activeUsers": 380,
+      "revenue": 1358.8,
+      "conversions": 116
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 1049,
+      "activeUsers": 465,
+      "revenue": 1949.4,
+      "conversions": 98
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 509,
+      "activeUsers": 714,
+      "revenue": 1076.71,
+      "conversions": 107
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 653,
+      "activeUsers": 852,
+      "revenue": 1102.63,
+      "conversions": 21
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 1581,
+      "activeUsers": 891,
+      "revenue": 184.28,
+      "conversions": 109
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 734,
+      "activeUsers": 273,
+      "revenue": 1152.64,
+      "conversions": 42
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 1066,
+      "activeUsers": 383,
+      "revenue": 1778.62,
+      "conversions": 16
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 1495,
+      "activeUsers": 712,
+      "revenue": 1524.04,
+      "conversions": 39
+    }
+  ]
+}

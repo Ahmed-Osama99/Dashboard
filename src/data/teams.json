@@ -1,0 +1,36 @@
+[
+  {
+    "id": "team_1",
+    "name": "Platform",
+    "members": [
+      "user_1",
+      "user_2",
+      "user_3"
+    ]
+  },
+  {
+    "id": "team_2",
+    "name": "Marketing",
+    "members": [
+      "user_4",
+      "user_5"
+    ]
+  },
+  {
+    "id": "team_3",
+    "name": "Sales",
+    "members": [
+      "user_6",
+      "user_7",
+      "user_8"
+    ]
+  },
+  {
+    "id": "team_4",
+    "name": "Support",
+    "members": [
+      "user_9",
+      "user_10"
+    ]
+  }
+]

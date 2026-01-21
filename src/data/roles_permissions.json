@@ -1,0 +1,33 @@
+{
+  "roles": [
+    {
+      "role": "admin",
+      "permissions": [
+        "*"
+      ]
+    },
+    {
+      "role": "manager",
+      "permissions": [
+        "read:projects",
+        "write:projects",
+        "read:users",
+        "write:tasks"
+      ]
+    },
+    {
+      "role": "editor",
+      "permissions": [
+        "read:projects",
+        "write:tasks"
+      ]
+    },
+    {
+      "role": "viewer",
+      "permissions": [
+        "read:projects",
+        "read:dashboards"
+      ]
+    }
+  ]
+}
