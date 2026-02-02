@@ -1,0 +1,142 @@
+[
+  {
+    "id": "user_1",
+    "fullName": "User 1",
+    "email": "user1@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user1",
+    "role": "editor",
+    "status": "active",
+    "lastLogin": "2025-12-23T22:05:55.320309Z",
+    "language": "ar",
+    "preferences": {
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_2",
+    "fullName": "User 2",
+    "email": "user2@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user2",
+    "role": "viewer",
+    "status": "invited",
+    "lastLogin": "2025-12-30T11:05:55.320309Z",
+    "language": "en",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_3",
+    "fullName": "User 3",
+    "email": "user3@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user3",
+    "role": "viewer",
+    "status": "suspended",
+    "lastLogin": "2025-12-29T09:05:55.320309Z",
+    "language": "fr",
+    "preferences": {
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_4",
+    "fullName": "User 4",
+    "email": "user4@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user4",
+    "role": "manager",
+    "status": "invited",
+    "lastLogin": "2025-12-31T19:05:55.320309Z",
+    "language": "fr",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_5",
+    "fullName": "User 5",
+    "email": "user5@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user5",
+    "role": "viewer",
+    "status": "suspended",
+    "lastLogin": "2025-12-23T03:05:55.320309Z",
+    "language": "en",
+    "preferences": {
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_6",
+    "fullName": "User 6",
+    "email": "user6@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user6",
+    "role": "editor",
+    "status": "active",
+    "lastLogin": "2025-12-27T22:05:55.320309Z",
+    "language": "fr",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_7",
+    "fullName": "User 7",
+    "email": "user7@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user7",
+    "role": "manager",
+    "status": "active",
+    "lastLogin": "2025-12-27T23:05:55.320309Z",
+    "language": "ar",
+    "preferences": {
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_8",
+    "fullName": "User 8",
+    "email": "user8@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user8",
+    "role": "viewer",
+    "status": "suspended",
+    "lastLogin": "2025-12-09T03:05:55.320309Z",
+    "language": "en",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_9",
+    "fullName": "User 9",
+    "email": "user9@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user9",
+    "role": "viewer",
+    "status": "suspended",
+    "lastLogin": "2026-01-05T23:05:55.320309Z",
+    "language": "ar",
+    "preferences": {
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "user_10",
+    "fullName": "User 10",
+    "email": "user10@example.com",
+    "avatar": "https://api.dicebear.com/6.x/identicon/svg?seed=user10",
+    "role": "manager",
+    "status": "active",
+    "lastLogin": "2025-12-10T14:05:55.320309Z",
+    "language": "ar",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  }
+]

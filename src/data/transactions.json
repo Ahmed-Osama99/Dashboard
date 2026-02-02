@@ -1,0 +1,362 @@
+[
+  {
+    "id": "txn_1001",
+    "date": "2025-12-10T17:05:55.320309Z",
+    "amount": 1217.24,
+    "currency": "EGP",
+    "status": "pending",
+    "customer": "user_2",
+    "method": "card"
+  },
+  {
+    "id": "txn_1002",
+    "date": "2025-11-19T17:05:55.320309Z",
+    "amount": 510.58,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_1",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1003",
+    "date": "2025-10-10T17:05:55.320309Z",
+    "amount": 874.48,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_6",
+    "method": "card"
+  },
+  {
+    "id": "txn_1004",
+    "date": "2025-10-27T17:05:55.320309Z",
+    "amount": 283.21,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_2",
+    "method": "card"
+  },
+  {
+    "id": "txn_1005",
+    "date": "2025-10-17T17:05:55.320309Z",
+    "amount": 765.87,
+    "currency": "USD",
+    "status": "refunded",
+    "customer": "user_8",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1006",
+    "date": "2025-11-19T17:05:55.320309Z",
+    "amount": 1830.39,
+    "currency": "USD",
+    "status": "refunded",
+    "customer": "user_8",
+    "method": "card"
+  },
+  {
+    "id": "txn_1007",
+    "date": "2025-11-24T17:05:55.320309Z",
+    "amount": 852.5,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_8",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1008",
+    "date": "2025-12-14T17:05:55.320309Z",
+    "amount": 1360.05,
+    "currency": "EUR",
+    "status": "pending",
+    "customer": "user_10",
+    "method": "card"
+  },
+  {
+    "id": "txn_1009",
+    "date": "2025-11-15T17:05:55.320309Z",
+    "amount": 954.46,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_2",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1010",
+    "date": "2025-12-21T17:05:55.320309Z",
+    "amount": 322.84,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_7",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1011",
+    "date": "2025-12-02T17:05:55.320309Z",
+    "amount": 1206.56,
+    "currency": "USD",
+    "status": "refunded",
+    "customer": "user_3",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1012",
+    "date": "2025-11-13T17:05:55.320309Z",
+    "amount": 625.49,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_9",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1013",
+    "date": "2025-12-01T17:05:55.320309Z",
+    "amount": 1931.04,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_7",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1014",
+    "date": "2025-11-05T17:05:55.320309Z",
+    "amount": 172.54,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_5",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1015",
+    "date": "2025-12-19T17:05:55.320309Z",
+    "amount": 508.32,
+    "currency": "EUR",
+    "status": "pending",
+    "customer": "user_3",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1016",
+    "date": "2025-10-20T17:05:55.320309Z",
+    "amount": 1264.06,
+    "currency": "USD",
+    "status": "failed",
+    "customer": "user_7",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1017",
+    "date": "2026-01-06T17:05:55.320309Z",
+    "amount": 1505.85,
+    "currency": "EUR",
+    "status": "refunded",
+    "customer": "user_1",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1018",
+    "date": "2025-12-24T17:05:55.320309Z",
+    "amount": 765.52,
+    "currency": "EUR",
+    "status": "failed",
+    "customer": "user_2",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1019",
+    "date": "2025-11-07T17:05:55.320309Z",
+    "amount": 1481.39,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_10",
+    "method": "card"
+  },
+  {
+    "id": "txn_1020",
+    "date": "2026-01-01T17:05:55.320309Z",
+    "amount": 1905.48,
+    "currency": "USD",
+    "status": "pending",
+    "customer": "user_2",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1021",
+    "date": "2026-01-06T17:05:55.320309Z",
+    "amount": 1864.44,
+    "currency": "EUR",
+    "status": "refunded",
+    "customer": "user_8",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1022",
+    "date": "2025-11-21T17:05:55.320309Z",
+    "amount": 161.29,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_2",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1023",
+    "date": "2026-01-07T17:05:55.320309Z",
+    "amount": 1960.98,
+    "currency": "EUR",
+    "status": "completed",
+    "customer": "user_8",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1024",
+    "date": "2026-01-08T17:05:55.320309Z",
+    "amount": 836.37,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_2",
+    "method": "card"
+  },
+  {
+    "id": "txn_1025",
+    "date": "2025-10-15T17:05:55.320309Z",
+    "amount": 1493.59,
+    "currency": "USD",
+    "status": "failed",
+    "customer": "user_9",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1026",
+    "date": "2025-11-30T17:05:55.320309Z",
+    "amount": 88.04,
+    "currency": "EUR",
+    "status": "completed",
+    "customer": "user_10",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1027",
+    "date": "2025-11-22T17:05:55.320309Z",
+    "amount": 808.1,
+    "currency": "USD",
+    "status": "refunded",
+    "customer": "user_5",
+    "method": "card"
+  },
+  {
+    "id": "txn_1028",
+    "date": "2025-12-06T17:05:55.320309Z",
+    "amount": 846.24,
+    "currency": "USD",
+    "status": "completed",
+    "customer": "user_7",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1029",
+    "date": "2025-12-01T17:05:55.320309Z",
+    "amount": 398.64,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_8",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1030",
+    "date": "2025-12-02T17:05:55.320309Z",
+    "amount": 913.9,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_4",
+    "method": "paypal"
+  },
+  {
+    "id": "txn_1031",
+    "date": "2025-10-13T17:05:55.320309Z",
+    "amount": 21.24,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_9",
+    "method": "card"
+  },
+  {
+    "id": "txn_1032",
+    "date": "2025-11-14T17:05:55.320309Z",
+    "amount": 256.27,
+    "currency": "EUR",
+    "status": "pending",
+    "customer": "user_1",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1033",
+    "date": "2025-12-28T17:05:55.320309Z",
+    "amount": 165.48,
+    "currency": "EGP",
+    "status": "pending",
+    "customer": "user_7",
+    "method": "card"
+  },
+  {
+    "id": "txn_1034",
+    "date": "2025-12-31T17:05:55.320309Z",
+    "amount": 1388.17,
+    "currency": "USD",
+    "status": "completed",
+    "customer": "user_5",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1035",
+    "date": "2025-12-20T17:05:55.320309Z",
+    "amount": 1704.54,
+    "currency": "USD",
+    "status": "failed",
+    "customer": "user_3",
+    "method": "card"
+  },
+  {
+    "id": "txn_1036",
+    "date": "2025-10-30T17:05:55.320309Z",
+    "amount": 428.11,
+    "currency": "USD",
+    "status": "failed",
+    "customer": "user_1",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1037",
+    "date": "2026-01-05T17:05:55.320309Z",
+    "amount": 895.51,
+    "currency": "EUR",
+    "status": "failed",
+    "customer": "user_6",
+    "method": "bank_transfer"
+  },
+  {
+    "id": "txn_1038",
+    "date": "2025-12-07T17:05:55.320309Z",
+    "amount": 1235.08,
+    "currency": "EGP",
+    "status": "completed",
+    "customer": "user_7",
+    "method": "card"
+  },
+  {
+    "id": "txn_1039",
+    "date": "2025-11-08T17:05:55.320309Z",
+    "amount": 1327.46,
+    "currency": "EGP",
+    "status": "failed",
+    "customer": "user_10",
+    "method": "card"
+  },
+  {
+    "id": "txn_1040",
+    "date": "2026-01-02T17:05:55.320309Z",
+    "amount": 766.19,
+    "currency": "EGP",
+    "status": "refunded",
+    "customer": "user_3",
+    "method": "bank_transfer"
+  }
+]

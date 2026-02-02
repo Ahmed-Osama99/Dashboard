@@ -1,0 +1,30 @@
+{
+  "note": "These JSON files are synthetic example datasets for a dashboard project. Use them locally or wire them to a mock API (json-server, MSW) to prototype UI components and flows.",
+  "suggestions": [
+    "Use users.json and teams.json to power user lists, profile menus, and team selectors.",
+    "projects.json + tasks.json -> project overview, kanban board, task lists, progress bars.",
+    "transactions.json + metrics.json -> finance dashboard, charts, revenue cards, top customers.",
+    "metrics.json is time-series that fits charting libs (recharts, chart.js, apexcharts).",
+    "Load notifications.json for a bell menu; activity_logs.json for audit trail.",
+    "roles_permissions.json can be used to gate UI actions on the client.",
+    "Serve files via a dev mock server (json-server) or create express endpoints to simulate backend."
+  ],
+  "how_to_run_locally_examples": [
+    "Install json-server: npm i -g json-server",
+    "Start: json-server --watch /path/to/dashboard_data --port 4000",
+    "Then fetch: GET http://localhost:4000/users"
+  ],
+  "files": [
+    "users.json",
+    "teams.json",
+    "projects.json",
+    "tasks.json",
+    "transactions.json",
+    "products.json",
+    "metrics.json",
+    "notifications.json",
+    "activity_logs.json",
+    "roles_permissions.json",
+    "settings.json"
+  ]
+}

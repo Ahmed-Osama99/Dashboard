@@ -1,0 +1,98 @@
+[
+  {
+    "id": "note_1",
+    "title": "Notification 1",
+    "body": "This is the body for notification 1.",
+    "type": "info",
+    "read": true,
+    "createdAt": "2026-01-04T05:05:55.320309Z"
+  },
+  {
+    "id": "note_2",
+    "title": "Notification 2",
+    "body": "This is the body for notification 2.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-01-01T03:05:55.320309Z"
+  },
+  {
+    "id": "note_3",
+    "title": "Notification 3",
+    "body": "This is the body for notification 3.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-01-02T04:05:55.320309Z"
+  },
+  {
+    "id": "note_4",
+    "title": "Notification 4",
+    "body": "This is the body for notification 4.",
+    "type": "error",
+    "read": true,
+    "createdAt": "2026-01-04T18:05:55.320309Z"
+  },
+  {
+    "id": "note_5",
+    "title": "Notification 5",
+    "body": "This is the body for notification 5.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2025-12-29T00:05:55.320309Z"
+  },
+  {
+    "id": "note_6",
+    "title": "Notification 6",
+    "body": "This is the body for notification 6.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2025-12-28T04:05:55.320309Z"
+  },
+  {
+    "id": "note_7",
+    "title": "Notification 7",
+    "body": "This is the body for notification 7.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2026-01-03T10:05:55.320309Z"
+  },
+  {
+    "id": "note_8",
+    "title": "Notification 8",
+    "body": "This is the body for notification 8.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2026-01-01T16:05:55.320309Z"
+  },
+  {
+    "id": "note_9",
+    "title": "Notification 9",
+    "body": "This is the body for notification 9.",
+    "type": "error",
+    "read": false,
+    "createdAt": "2026-01-06T21:05:55.320309Z"
+  },
+  {
+    "id": "note_10",
+    "title": "Notification 10",
+    "body": "This is the body for notification 10.",
+    "type": "error",
+    "read": true,
+    "createdAt": "2026-01-05T15:05:55.320309Z"
+  },
+  {
+    "id": "note_11",
+    "title": "Notification 11",
+    "body": "This is the body for notification 11.",
+    "type": "error",
+    "read": false,
+    "createdAt": "2025-12-31T05:05:55.320309Z"
+  },
+  {
+    "id": "note_12",
+    "title": "Notification 12",
+    "body": "This is the body for notification 12.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2026-01-06T18:05:55.320309Z"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "proj_1",
+    "title": "Project 1 Dashboard",
+    "owner": "user_6",
+    "teamId": "team_2",
+    "status": "completed",
+    "budget": 3925.88,
+    "startDate": "2025-12-15",
+    "endDate": "2026-04-10",
+    "tags": [
+      "fintech",
+      "internal"
+    ]
+  },
+  {
+    "id": "proj_2",
+    "title": "Project 2 Dashboard",
+    "owner": "user_6",
+    "teamId": "team_1",
+    "status": "active",
+    "budget": 19527.55,
+    "startDate": "2025-11-07",
+    "endDate": "2026-03-07",
+    "tags": [
+      "fintech",
+      "internal"
+    ]
+  },
+  {
+    "id": "proj_3",
+    "title": "Project 3 Dashboard",
+    "owner": "user_10",
+    "teamId": "team_1",
+    "status": "completed",
+    "budget": 8437.51,
+    "startDate": "2025-10-01",
+    "endDate": "2026-06-27",
+    "tags": [
+      "admin",
+      "analytics"
+    ]
+  },
+  {
+    "id": "proj_4",
+    "title": "Project 4 Dashboard",
+    "owner": "user_10",
+    "teamId": "team_3",
+    "status": "paused",
+    "budget": 13584.5,
+    "startDate": "2025-10-02",
+    "endDate": "2026-05-12",
+    "tags": [
+      "analytics",
+      "marketing"
+    ]
+  },
+  {
+    "id": "proj_5",
+    "title": "Project 5 Dashboard",
+    "owner": "user_5",
+    "teamId": "team_3",
+    "status": "completed",
+    "budget": 5857.23,
+    "startDate": "2025-10-21",
+    "endDate": "2026-07-05",
+    "tags": [
+      "analytics",
+      "admin"
+    ]
+  },
+  {
+    "id": "proj_6",
+    "title": "Project 6 Dashboard",
+    "owner": "user_7",
+    "teamId": "team_3",
+    "status": "completed",
+    "budget": 10738.53,
+    "startDate": "2025-09-26",
+    "endDate": "2026-02-18",
+    "tags": [
+      "e-commerce",
+      "marketing"
+    ]
+  }
+]
