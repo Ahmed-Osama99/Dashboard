@@ -1,11 +1,12 @@
 import { useState } from "react";
 import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
-import Dashboard from "./pages/Dashboard";
-import Products from './pages//Products'
-import ProductStock from './pages/ProductStock'
+import Dashboard from "./features/dashboard/Dashboard";
+import Products from './features/products/Products'
+import OrdersList from "./features/orders/OrdersList";
+import ProductStock from './features/stock/ProductStock'
 import { Routes, Route } from "react-router-dom";
-import Favorites from "./pages/Favorites";
+import Favorites from "./features/products/Favorites";
 
 function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -22,7 +23,7 @@ function App() {
         <Route path="/products" element={<Products />} />
         <Route path="/favorites" element={<Favorites />} />
         <Route path="/inbox" element={<Dashboard />} />
-        <Route path="/orders" element={<Dashboard />} />
+        <Route path="/orders" element={<OrdersList />} />
         <Route path="/stock" element={<ProductStock />} />
         <Route path="/pricing" element={<Dashboard />} />
         <Route path="/calender" element={<Dashboard />} />
